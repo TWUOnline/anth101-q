@@ -1,0 +1,27 @@
+project:
+  type: book
+
+book:
+  title: "q-anth101"
+  author: "Norah Jones"
+  date: "1/18/2024"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+    - 02-u1.Rmd
+    - 03-u2.Rmd
+    - 04-u3.Rmd
+    - 05-u4.Rmd    
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+
+

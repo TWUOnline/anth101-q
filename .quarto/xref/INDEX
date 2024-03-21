@@ -1,0 +1,26 @@
+{
+  "index.qmd": {
+    "index.html": "83f649ab"
+  },
+  "intro.qmd": {
+    "intro.html": "5415c6e7"
+  },
+  "summary.qmd": {
+    "summary.html": "5d08b35d"
+  },
+  "references.qmd": {
+    "references.html": "4496db5f"
+  },
+  "02-u1.Rmd": {
+    "02-u1.html": "74232849"
+  },
+  "03-u2.Rmd": {
+    "03-u2.html": "b7d79a0b"
+  },
+  "04-u3.Rmd": {
+    "04-u3.html": "5ac0b0d0"
+  },
+  "05-u4.Rmd": {
+    "05-u4.html": "cd0c0058"
+  }
+}
